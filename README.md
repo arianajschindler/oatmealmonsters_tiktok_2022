@@ -5,6 +5,8 @@ I have been an active part of the meal-prep community on TikTok for about a year
 
 In the dataset of my overall main account, important variables I am tracking include: date, video views, profile views, likes, comments, shares, followers, follower difference from previous day, a boolean of whether I posted a video or not, and the day of the week.
 
+main account data: https://github.com/arianajschindler/oatmealmonsters_tiktok_2022/blob/28ee213b5328e1ea567eaf4b24a29b3de656d6ee/data/tiktok_data_2022.csv
+
 In the dataset specifically for video data, important variables I am tracking include: date, hour within which the video was posted, category, duration, average watch time in second, percent of viewers who watched full video, plays, likes, comments, shares, and then boolean variables to indicate whether a voiceover was used, if there was in-video text, and if captions were added.
 
 Additional information I have that remains relatively static is main territories my viewers are from.
