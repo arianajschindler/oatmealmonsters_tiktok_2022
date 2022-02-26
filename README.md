@@ -9,4 +9,6 @@ main account data: https://github.com/arianajschindler/oatmealmonsters_tiktok_20
 
 In the dataset specifically for video data, important variables I am tracking include: date, hour within which the video was posted, category, duration, average watch time in second, percent of viewers who watched full video, plays, likes, comments, shares, and then boolean variables to indicate whether a voiceover was used, if there was in-video text, and if captions were added.
 
+video-specific data: https://github.com/arianajschindler/oatmealmonsters_tiktok_2022/blob/c8bc3a1c354586729aa0c3a532815656791a744d/data/video_specific_data.csv
+
 Additional information I have that remains relatively static is main territories my viewers are from.
