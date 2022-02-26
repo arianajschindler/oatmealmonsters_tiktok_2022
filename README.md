@@ -12,3 +12,5 @@ In the dataset specifically for video data, important variables I am tracking in
 video-specific data: https://github.com/arianajschindler/oatmealmonsters_tiktok_2022/blob/c8bc3a1c354586729aa0c3a532815656791a744d/data/video_specific_data.csv
 
 Additional information I have that remains relatively static is main territories my viewers are from.
+
+Dashboard as of 02/26/2022: [oatmealmonsters_dashboard pdf](https://github.com/arianajschindler/oatmealmonsters_tiktok_2022/files/8146802/oatmealmonsters_tiktok_dash.pdf)
