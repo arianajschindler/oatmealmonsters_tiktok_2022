@@ -7,7 +7,7 @@ In the dataset of my overall main account, important variables I am tracking inc
 
 main account data: https://github.com/arianajschindler/oatmealmonsters_tiktok_2022/blob/28ee213b5328e1ea567eaf4b24a29b3de656d6ee/data/tiktok_data_2022.csv
 
-In the dataset specifically for video data, important variables I am tracking include: date, hour within which the video was posted, category, duration, average watch time in second, percent of viewers who watched full video, plays, likes, comments, shares, and then boolean variables to indicate whether a voiceover was used, if there was in-video text, and if captions were added.
+In the dataset specifically for video data, important variables I am tracking include: date, hour within which the video was posted, category, duration, average watch time in second, percent of viewers who watched full video, plays, likes, comments, shares, and then boolean variables to indicate whether a voiceover was used, if there was in-video text, if captions were added, and if the video went viral (>100k views).
 
 video-specific data: https://github.com/arianajschindler/oatmealmonsters_tiktok_2022/blob/c8bc3a1c354586729aa0c3a532815656791a744d/data/video_specific_data.csv
 
