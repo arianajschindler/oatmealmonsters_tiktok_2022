@@ -13,4 +13,4 @@ video-specific data: https://github.com/arianajschindler/oatmealmonsters_tiktok_
 
 Additional information I have that remains relatively static is main territories my viewers are from.
 
-Dashboard as of 02/26/2022: [oatmealmonsters_dashboard pdf](https://https://github.com/arianajschindler/oatmealmonsters_tiktok_2022/blob/main/oatmealmonsters_updated_dash.pdf)
+Dashboard as of 03/14/2022 has been uploaded.
